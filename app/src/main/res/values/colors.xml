@@ -3,4 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="color_bg_welcome_slide_1">#f64c73</color>
+    <color name="color_bg_welcome_slide_2">#0336FF</color>
+    <color name="color_bg_welcome_slide_3">#FFDE03</color>
 </resources>
