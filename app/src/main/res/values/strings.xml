@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FoodCorner</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
 </resources>
