@@ -1,7 +1,9 @@
-package com.example.rober.foodcorner;
+package com.example.rober.foodcorner.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.rober.foodcorner.R;
 
 public class MainActivity extends AppCompatActivity {
 
